@@ -1,0 +1,16 @@
+{
+    "businessCard": {
+        "name": "Victoria Brown",
+        "title": "LASH ARTIST",
+        "contact": {
+            "phone": "(123) 456 7890",
+            "address": "123 Anywhere St, Any City",
+            "email": "hello@victoriabrown.com",
+            "website": "www.victoriabrown.com"
+        },
+        "theme": {
+            "primaryColor": "#0A2A3D",
+            "backgroundColor": "#b2b8ba"
+        }
+    }
+}
